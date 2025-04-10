@@ -26,14 +26,11 @@ A web-based food ordering platform designed to digitize and optimize the food or
 ---
 
 ## 🛠️ Tech Stack
-- Web Development Tools: HTML, CSS, Java Script, Flask
--Server-Side Scripting: Makefile
--Database management tool: SQLLite3
--Git: For managing project source code, tracking changes, and collaborating with team
-members.
--Git hosting platforms: Like GitHub, GitLab, or Bitbucket, for hosting repositories and
-facilitating collaboration.
--Deployment and Hosting: Localhost
+- Frontend: HTML, CSS, JavaScript
+- Backend: Flask (Python)
+- Database: SQLite3
+- Version Control: Git
+- Hosting (Dev): Localhost
 
 ---
 
